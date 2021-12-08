@@ -1,6 +1,7 @@
 package lambda_functional_programming;
 
 public class Courses {
+	//deneme githubtan
 	
 	private String Season;
     private String courseName;
